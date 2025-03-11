@@ -46,14 +46,9 @@ python stock_analysis.py
 │── README.md          # Documentation
 ```
 
-## References
-- [Pandas Documentation](https://pandas.pydata.org/)
-- [Matplotlib Documentation](https://matplotlib.org/)
-- [NumPy Documentation](https://numpy.org/)
 
-## License
-This project is open-source and available under the MIT License.
 
----
-For any queries or improvements, feel free to contribute! 🚀
+
+
+
 
